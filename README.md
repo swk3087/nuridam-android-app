@@ -1,3 +1,3 @@
 # nuridam-android-app
-# [v0.1](/nuridam-android-app/v0.1/)
+# [v1.0](/nuridam-android-app/v1.0/)
 - Changelog : nothing
